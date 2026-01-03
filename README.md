@@ -12,3 +12,16 @@ Download and intercept facial images of 593 anime characters as training data fo
 
 ![](image/inference2.png)
 **Figure:** **D.**  Details of pulse release in reasoning process
+
+## Requirements
+
+To install requirements:
+
+```setup
+pip install -r requirements.txt
+```
+
+## Run
+```Run
+python train_spike_vae.py
+```
